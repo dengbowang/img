@@ -1,4 +1,4 @@
-# [个人网站](https://dengbowang.githun.io/img)
+# [个人网站](https://dengbowang.github.io/img)
 
 ### [Github 首页 | 立方体Cube ](https://github.com/dengbowang)
 
